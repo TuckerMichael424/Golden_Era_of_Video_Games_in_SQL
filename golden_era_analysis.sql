@@ -1,11 +1,11 @@
--- best_selling_games
+-- Query 1: Top 10 Best Selling Games
 SELECT name,
 	games_sold AS game_sales
 FROM game_sales
 ORDER BY games_sold DESC 
 LIMIT 10 ;
 
--- critics_top_ten_years
+-- Query 2: Top 10 Years of Video Game Releases by Critic Scores
 SELECT game_sales.year,
 	COUNT(DISTINCT game_sales.name) AS num_games_released, 
 	ROUND(AVG(reviews.critic_score), 2) AS avg_critic_score
@@ -16,7 +16,7 @@ HAVING COUNT(DISTINCT game_sales.name) >= 4
 ORDER BY avg_critic_score DESC
 LIMIT 10 ; 
 
--- Comparing average user and critic ratings to determine the "golden years" of video games
+-- Query 3: Determine Golden Years (critic or user score is above 9). 
 SELECT users_avg_year_rating.year,
 	users_avg_year_rating.num_games,
 	critics_avg_year_rating.avg_critic_score,
