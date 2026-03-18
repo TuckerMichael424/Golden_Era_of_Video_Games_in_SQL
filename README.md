@@ -54,4 +54,18 @@ ORDER BY users_avg_year_rating.year ASC;]
 ```
 ## Results 🧪
 
-As the queries above display, 
+### Best-Selling Games
+- The top 10 best-selling games are dominated by Nintendo platform games, 
+- [Year range] represents the most commercially successful period
+
+### Top Critic-Rated Years
+- The years with the highest critic scores (minimum 4 games) are concentrated in [1990s/2000s]
+- This suggests the "golden era" for critics was [decade]
+
+### Golden Years (Critic OR User Score > 9)
+- [] years met the threshold for exceptional scores
+- The difference (diff) column shows that critics and users disagreed most in [year], with a gap of [number]
+- [Year] stands out as having both high critic AND user scores
+
+### Final Conclusion
+Based on this analysis, the true "golden era" of video games appears to be [decade/period], when both critics and users consistently rated games highly while sales remained strong.
