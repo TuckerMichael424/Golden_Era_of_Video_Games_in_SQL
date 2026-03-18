@@ -55,17 +55,24 @@ ORDER BY users_avg_year_rating.year ASC;]
 ## Results 🧪
 
 ### Best-Selling Games
-- The top 10 best-selling games are dominated by Nintendo platform games, 
-- [Year range] represents the most commercially successful period
+- The top 10 best-selling games are dominated by Nintendo platform games with (8 of the 10 results), and specifically the Nintendo Wii platform (4 of 10 of the results) dominating with releases like Wii Sports, Mario Kart, Wii Sports Resort, and New Super Mario Bros.
+- PC platforms come in a close second (3 out of 10 games) with titles like Counter-Strike: Global Offensive selling 40 million copies, Playerunknown's Battlegrounds selling 36.6 million, and Minecraft at 33.15 million. These three were released between 2010 - 2017, representing a 7 year period of success for the PC platform. 
+- Each of those 4 games also released between 2006 and 2009 represents the most commercially successful period, with Wii Sports selling over 82.9 (million) copies that year. 
 
 ### Top Critic-Rated Years
-- The years with the highest critic scores (minimum 4 games) are concentrated in [1990s/2000s]
-- This suggests the "golden era" for critics was [decade]
+- The years with the highest critic scores (minimum 4 games) are concentrated in 1998, with 10 games released, and an average critic score of 9.32. 
+- This suggests the "golden era" for critics was the late 90's. 
 
 ### Golden Years (Critic OR User Score > 9)
-- [] years met the threshold for exceptional scores
-- The difference (diff) column shows that critics and users disagreed most in [year], with a gap of [number]
-- [Year] stands out as having both high critic AND user scores
+- Only 6 years met the threshold for exceptional scores from critics or users. 
+- The difference (diff) column shows that critics and users disagreed most in 1997, with a gap of -1.57 (critics averaged a 7.93 rating versus users at 9.5). 
+- 1998 stands out as having both high critic AND user scores. 
 
 ### Final Conclusion
-Based on this analysis, the true "golden era" of video games appears to be [decade/period], when both critics and users consistently rated games highly while sales remained strong.
+Based on this analysis, the true "golden era" of video games appears to be the early 2000's, when both critics and users consistently rated games highly while sales remained strong.
+If we were to separate this into three ears with a focus on commercial success, critic consensus, and user consensus we would get: 
+- Commercially, the golden era would be the early 2000's - with half of the top 10 games releasing before 2010.
+- For critic reviews, the golden era appears to be divided between the early 2000's and post 2010.
+	Both decades had 4 separate years with a minimum of 9 games released and an average score of 8.86 for 2000-2009, and 8.67 for 2010 - 2020.
+
+While this can be expanded to take into account socio-political/technological changes, for now, I will leave it as is and state with confidence the golden era of video games was the early 2000's. 
