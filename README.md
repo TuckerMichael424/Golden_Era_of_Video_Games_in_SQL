@@ -69,7 +69,7 @@ ORDER BY users_avg_year_rating.year ASC;]
 - 1998 stands out as having both high critic AND user scores. 
 
 ### Final Conclusion
-Based on this analysis, the true "golden era" of video games appears to be the early 2000's, when both critics and users consistently rated games highly while sales remained strong.
+The golden era splits depending on what you value: commercially it’s the mid-2000’s, critically it peaks in 1998, where both users and critics gave high ratings. 
 If we were to separate this into three ears with a focus on commercial success, critic consensus, and user consensus we would get: 
 - Commercially, the golden era would be the early 2000's - with half of the top 10 games releasing before 2010.
 - For critic reviews, the golden era appears to be divided between the early 2000's and post 2010.
